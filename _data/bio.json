@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sae Hyun Song",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://saehyuns.github.io/template/images/2400547_993876020678335_3445783385507313930_n.jpg",
+    "email": "saehyuns@hawaii.edu",
+    "phone": "808-389-3588",
+    "website": " https://saehyuns.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "2911 Booth Road",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "saehyuns",
+        "url": "http://github.com/saehyuns"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "sae-hyun-song",
+        "url": "https://www.linkedin.com/in/sae-hyun-song"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Mobile App Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Security",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Video Game Design",
       "keywords": [
       ]
     }
