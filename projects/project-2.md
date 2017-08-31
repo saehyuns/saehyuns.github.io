@@ -3,16 +3,16 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Bank DB Application
-permalink: projects/vacay
+permalink: projects/bankdb
 date: Fall 2016
 labels:
   - Java
   - C++
   - C
-summary: A final project for ICS 212 where I had to apply everything I learned throughout the semester in order to create a bank database program that of which the user can choose to add, modify, delete, and look up records stored in a database.
+summary: A final project for ICS 212 where I had to apply the concepts/languages I learned throughout the semester in order to create a bank database program that of which the user can choose to add, modify, delete, and look up records stored in a database.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/bankdb1.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
