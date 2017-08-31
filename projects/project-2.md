@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/bankdb1.png
 title: Bank DB Application
 permalink: projects/vacay
 date: Fall 2016
