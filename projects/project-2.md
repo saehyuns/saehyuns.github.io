@@ -10,7 +10,7 @@ labels:
   - C
 summary: A final project for ICS 212 where I had to apply the concepts/languages I learned throughout the semester in order to create a bank database program that of which the user can choose to add, modify, delete, and look up records stored in a database.
 ---
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/bankdb2.png">
   <img class="ui image" src="../images/bankdb3.png">
   <img class="ui image" src="../images/bankdb4.png">
