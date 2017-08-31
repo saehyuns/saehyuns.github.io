@@ -7,7 +7,7 @@ permalink: projects/micromouse
 date: 2015
 labels:
   - Java
-summary: My team developed a mock Minesweeper game using Java as our final project for ICS 211.
+summary: A mock Minesweeper game using Java as my final project for ICS 211.
 ---
 
 <div class="ui small rounded images">
