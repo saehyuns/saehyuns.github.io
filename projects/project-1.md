@@ -21,7 +21,7 @@ Minesweeper is a single player puzzle game which originated from the 1960's. The
 
 For this project, we didn't really give each other specific roles but instead delegated who would do what in the program. I started by programming the creation of the grid, one of the most important aspects of the game. Without a grid, it wouldn't be a Minesweeper game. From then, I transferred over to the initialization portion of the MineSweeper program which included the difficulty buttons, high score buttons, and the reset buttons. Where the grid size and the number of bombs would change depending on the difficulty selected, and the reset button would reset the entire grid to a new one. At the end of the project, I contributed to the shortening and polishing of the code as well as organizing the commenting.
 
-You can see our source code at https://github.com/saehyuns/Projects/tree/master/MockMi-Ne%20Sweeper.
+You can see our source code at Source: <a href="https://github.com/saehyuns/Projects/tree/master/MockMi-Ne%20Sweeper"><i class="large github icon"></i>theVacay/vacay</a>
 
 
 
