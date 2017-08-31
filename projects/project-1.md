@@ -4,10 +4,10 @@ type: project
 image: images/MineCover.png
 title: MockMi-Ne Sweeper
 permalink: projects/micromouse
-date: 2015
+date: Spring 2016
 labels:
   - Java
-summary: A mock Minesweeper game using Java as my final project for ICS 211.
+summary: A final project for ICS 211 in which I applied the concepts and languages I learned throughout the semester to create a mock Minesweeper game.
 ---
 
 <div class="ui small rounded images">
