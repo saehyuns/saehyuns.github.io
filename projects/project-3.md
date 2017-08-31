@@ -51,7 +51,7 @@ The candle is now lit. It illuminates everything in the room.
 walk west
 The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
  there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+ from here. There is a door going south from here. Hello
 </pre>
 
 <hr>
