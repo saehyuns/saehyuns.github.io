@@ -20,4 +20,4 @@ This is a bank database program that of which stored and retrieved data from a t
 
 This bank database program was implemented using vi, terminal, C++, and C. Initially the project was created in C, then we had to reconfigure and change the entire project to C++ code. This project helped me learn and better understand how to use the vi editor as well as design and implement a database program by using C and C++.
  
-The source code to my program will be at <a href="https://github.com/saehyuns/Projects/tree/master/Mock%20Bank"><i class="large github icon"></i>Bank DB Application.</a>
+The source code to my program will be at: <a href="https://github.com/saehyuns/Projects/tree/master/Mock%20Bank"><i class="large github icon"></i>Bank DB Application.</a>
