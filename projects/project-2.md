@@ -4,12 +4,11 @@ type: project
 image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
-date: 2015
+date: Fall 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Java
+  - C++
+  - C
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
