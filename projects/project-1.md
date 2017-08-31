@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/MineCover.png
 title: MockMi-Ne Sweeper
-permalink: projects/micromouse
+permalink: projects/mockminesweeper
 date: Spring 2016
 labels:
   - Java
