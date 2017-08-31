@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Bank DB Application
 permalink: projects/vacay
 date: Fall 2016
 labels:
   - Java
   - C++
   - C
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A final project for ICS 212 where I had to apply everything I learned throughout the semester in order to create a bank database program that of which the user can choose to add, modify, delete, and look up records stored in a database.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
