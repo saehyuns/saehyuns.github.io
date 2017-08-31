@@ -11,6 +11,7 @@ labels:
 summary: A final project for ICS 212 where I had to apply the concepts/languages I learned throughout the semester in order to create a bank database program that the user can interact with.
 ---
 <div class="ui medium rounded images">
+  <img class="ui image" src="../images/bankdb1.png">
   <img class="ui image" src="../images/bankdb2.png">
   <img class="ui image" src="../images/bankdb3.png">
   <img class="ui image" src="../images/bankdb4.png">
