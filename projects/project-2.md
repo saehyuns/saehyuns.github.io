@@ -4,7 +4,7 @@ type: project
 image: images/bankdb1.png
 title: Bank DB Application
 permalink: projects/vacay
-date: Fall 2016
+date: 2016
 labels:
   - C++
   - C
