@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/MineCover.png
-title: Minesweeper (ICS 211)
+title: MockMi-Ne Sweeper
 permalink: projects/micromouse
 date: 2015
 labels:
@@ -17,11 +17,11 @@ summary: My team developed a mock Minesweeper game using Java as our final proje
   <img class="ui image" src="../images/MINESWEEP4.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Minesweeper is a single player puzzle game which originated from the 1960's. The objective of the game is to clear a rectangular board which has bombs hidden inside each square. Utilizing the number clues given, through probability and logic you try and press on every square possible without detonating a mine. If you do so successfully, you win. The grid sizes and number of bombs depend on the level of difficulty that you would like to play at.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, we didn't really give each other specific roles but instead delegated who would do what in the program. I started by programming the creation of the grid, one of the most important aspects of the game. Without a grid, it wouldn't be a Minesweeper game. From then, I transferred over to the initialization portion of the MineSweeper program which included the difficulty buttons, high score buttons, and the reset buttons. Where the grid size and the number of bombs would change depending on the difficulty selected, and the reset button would reset the entire grid to a new one. At the end of the project, I contributed to the shortening and polishing of the code as well as organizing the commenting.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can see our source code at https://github.com/saehyuns/Projects/tree/master/MockMi-Ne%20Sweeper.
 
 
 
