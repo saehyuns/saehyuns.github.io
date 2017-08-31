@@ -10,8 +10,11 @@ labels:
   - C
 summary: A final project for ICS 212 where I had to apply the concepts/languages I learned throughout the semester in order to create a bank database program that of which the user can choose to add, modify, delete, and look up records stored in a database.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/bankdb1.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/bankdb2.png">
+  <img class="ui image" src="../images/bankdb3.png">
+  <img class="ui image" src="../images/bankdb4.png">
+</div>
 
 This is a bank database program that of which stored and retrieved data from a text file. You could choose to add a record in which then you would need to input the information for a new record such as name, year of birth, address, etc. The records would be organized as a singly linked list and ordered by the most recent year of birth at the beginning. Modifying a record would require the user to know the account number, if it does exist, it allows the user to change the address if not, it will ask to re-enter the account number. You may also delete/look up records in the same manner, as long as you know the account number associated with the record. 
 
