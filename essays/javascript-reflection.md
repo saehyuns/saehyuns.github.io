@@ -14,7 +14,7 @@ was me. Coming into this class, not knowing any JavaScript, I was expecting it t
 However, that was not the case. After watching Professor Johnson's video about the differences between JavaScript and C++/Java,
 it gave me a whole new perspective of what I was going to learning. One notable thing is that you can mix different
 types in the same array, IN THE SAME ARRAY. I never thought that would be possible, especially since Java/C/C++ were my starting
-languages. Having different types in the same array, opens new possibly that wouldn't be possible with the restrictions.
+languages. Having different types in the same array, opens up new possibilities that wouldn't be possible with the restrictions.
 
 From a software engineering perspective, JavaScript is a good programming language. The usability and readability makes more sense
 than that of the traditional C, C++, and Java programming languages. I feel like it would be easier for beginners to learn 
