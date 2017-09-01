@@ -23,7 +23,7 @@ what you want to achieve and the preference for the language that you like.
 
 Being introduced to WODS for the first time in my life, I feel as though they are very helpful in terms of not only preparing us for 
 the professional/technical interviews but also keeps us on our toes of JavaScript or the current material that we are learning.
-It is like when your workout, at first when your muscles are not used to working out, they will be in pain and in
+It is like when you workout, at first when your muscles are not used to working out, they will be in pain and in
 "shock", however as you become more consistent in working out, your muscles will no longer be as shocked as they were when you first
 worked out. Athletic software engineering behaves the exact same way but mentally. It is very much enjoyable and I believe that it
 will work for not only me but everyone else as well.
