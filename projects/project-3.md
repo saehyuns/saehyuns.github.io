@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/typemecover.jpg
+image: images/typemecover.jpeg
 title: TypeMe
 permalink: projects/cotton
 date: 201
