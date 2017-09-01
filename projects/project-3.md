@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/typemecover.jpg
+title: TypeMe
 permalink: projects/cotton
-date: 2014
+date: 201
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A typing memory game that I developed for ICS 111. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
