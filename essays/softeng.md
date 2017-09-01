@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: My interests in software engineering and what kinds of skills and experiences I hope to develop in future.
-date: 2016-02-06
+date: 2017-08-31
 labels:
   - Software Engineering
   - Computer Science
