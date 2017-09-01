@@ -6,55 +6,17 @@ title: TypeMe
 permalink: projects/cotton
 date: 201
 labels:
-  - Lisp
-  - GitHub
+  - Java
 summary: A typing memory game that I developed for ICS 111. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This program is a memory game in which the player will be shown a random number of words.  The goal is for the user to memorize the words within the time given and input those words correctly and in the same order.  The game features a lives system and three difficulties: easy, medium, and hard.  Harder difficulties will have more words to memorize, less time to memorize the words, and less number of lives.  Inputting the words correctly will increase your score; as your score increases, the amount of time you must memorize the words decreases. Inputting the words incorrectly or running out of time results in the player losing a life.  If the user runs out of lives, then their final score is displayed.  The user is also prompted to input their name, after which they can view the leaderboard where the top ten players and their scores are displayed.  After the leaderboard is shown, the user can go back to the main menu and play again.
 
-To give you a flavor of the game, here is an excerpt from one run:
+I worked on troubleshooting the program to see if any errors are made and needs to be fixed. Mostly worked on the user input, which gets the keyboard input and types it onto the screen, writing it to a save file and reading it. Also, worked on hiding the input that was printed on to the screen after it was typed. Helped on other things such as the timer, lives, randomization of words, etc. Created a randomization function as well as a class for user input. Created a loop so that when the game ends, the game restarts if the user wants to continue playing. Created a leaderboard to display on screen after the user runs out of lives.
 
-<hr>
+I had learned quite a lot from this project. Especially since it was my first ever game that I had to create with a group. Even though the game itself is not much, it gave me a taste of what it would be like to work as a group in the future. Learning from this experience that not everyone is the same and that everyone also learns at a different pace that you yourself would. Therefore, I had realized that communication amongst team members is essential to a positive environment and to achieve a common goal as a group.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here. Hello
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+The source code for this game will be in: <a href="https://github.com/saehyuns/Projects/tree/master/TypeMe"><i class="large github icon "></i>TypeMe</a>
 
