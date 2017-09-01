@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bankdb1.png
 title: Bank DB Application
-permalink: projects/bankdb
+permalink: projects/vacay
 date: 2016
 labels:
   - C++
