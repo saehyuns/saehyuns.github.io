@@ -10,7 +10,7 @@ labels:
 summary: A typing memory game that I developed for ICS 111. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/typeme1.jpeg">
 
 This program is a memory game in which the player will be shown a random number of words.  The goal is for the user to memorize the words within the time given and input those words correctly and in the same order.  The game features a lives system and three difficulties: easy, medium, and hard.  Harder difficulties will have more words to memorize, less time to memorize the words, and less number of lives.  Inputting the words correctly will increase your score; as your score increases, the amount of time you must memorize the words decreases. Inputting the words incorrectly or running out of time results in the player losing a life.  If the user runs out of lives, then their final score is displayed.  The user is also prompted to input their name, after which they can view the leaderboard where the top ten players and their scores are displayed.  After the leaderboard is shown, the user can go back to the main menu and play again.
 
