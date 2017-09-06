@@ -53,8 +53,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Swift"
       ]
     },
     {
@@ -62,8 +61,13 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "WindowsOS",
+        "Unix/Linux",
         "Git/GitHub",
+        "Vi/Vim",
+        "Xcode",
+        "Eclipse",
+        "iTerm"
       ]
     }
   ],
@@ -72,78 +76,101 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.74",
       "courses": [
+        "Intro to Computer Science I      [ICS 111]",
+        "Intro to Computer Science II     [ICS 211]",
+        "Discrete Math for CS I           [ICS 141]",
+        "Discrete Mathematics II          [ICS 241]",
+        "Program Structure                [ICS 212]",
+        "Algorithms                       [ICS 311]",
+        "Software Engineering             [ICS 314]",
+        "Data Storage & Retrieval         [ICS 321]",
+        "Security and Trust I             [ICS 355]",
+        "Data Security & Cryptography I   [ICS 423]"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Office of Multicultural Student Services – Hawaii Undergraduate Initiative (HUI)",
+      "position": "Program Team Member",
+      "website": "http://brugbakery.com/",
+      "startDate": "2017-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provided training to future peer mentors to be able to help and work with freshmen raised in an underrepresented community at the University of Hawaii at Mānoa."
+    },
+    {
+      "company": "Office of Student Life and Development - Student Recreation Services",
+      "position": "Front Desk Operations Manager",
+      "website": "https://manoa.hawaii.edu/studentrec/index.html",
+      "startDate": "2015-06",
+      "endDate": "Present",
+      "summary": "Management of front desk operations at the Warrior Recreation Center.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Management of the hiring and firing process",
+        "Accountable for all operations at the front desk"
+        "Scheduling employees based off of their availability",
+        "Problem solving and being able to make executive decisions based off of the circumstances given",
+        "Maintaining, updating, and overseeing the student recreation services website and its social media",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Hawaii Department of Education - Kaimuki High School",
+      "position": "AVID Tutor",
+      "website": "http://www.khsavid.com/",
+      "startDate": "2015-06",
+      "endDate": "2016-08",
+      "summary": "Aided students in their STEM coursework as well as the process of applying for colleges and scholarship opportunities, preparing them for their future in college.",
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "Hawaii Department of Education - Kaimuki High School",
+      "website": "http://www.khsavid.com/",
+      "position": "Helper",
+      "startDate": "2014-08",
+      "endDate": "2015-05",
+      "summary": "Helped with painting and maintaing a mural in the hall way as part of the AVID Program",
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+      "organization": "Hawaii Department of Education - Kaimuki High School",
+      "website": "http://www.khsavid.com/",
+      "position": "Helper",
+      "startDate": "2014-08",
+      "endDate": "2015-05",
+      "summary": "Planting, campus beautifying, and cleaning as part of the Kaimuki Go Green Project",
+    },
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2015-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
+      "title": "Dean's List",
+      "date": "2015-Present",
+      "awarder": "Dean of College of Natural Sciences",
+      "summary": "Students of the highest grade point averages for the semester receives this honor."
+    },
+    {
+      "title": "Certificate of Recognition for participation in taking the lessons of Hawai`i's World War II Confinement Sites to High Schools",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Japanese Cultural Center of Hawaii",
+      "summary": "Recognition for spreading awareness of the World War II Internment camps of Japanese people in Hawaii",
+      "highlights": [
+      "Contributed to the Honouliuli Internment Camp becoming a National Monument"
+      ]
+    },
+    {
+      "title": "Soft Tennis MVP Award",
+      "date": "2012",
+      "awarder": "Kaimuki High School",
+      "summary": "Most valuable player for soft tennis",
     }
   ],
   "references": [
