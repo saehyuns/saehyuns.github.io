@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Question, Dumb Question
+title: Smart Question, Stupid Question
 date: 2017-09-05
 labels:
   - Software Engineering
@@ -9,42 +9,12 @@ labels:
   - Questions
   - Life
 ---
-https://stackoverflow.com/questions/45873155/out-of-memory-error-when-collecting-data-out-of-spark-cluster
-https://stackoverflow.com/questions/34733505/how-to-print-to-console-using-javascript
 
-Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
+"How do you print to console using Javascript?" Does that sound like a pretty good question? It could be, or it could also be one of the stupidest questions to ask. Did the person asking the question try and find the answers on their own? Did they try and find the answer by searching the Web, manual, FAQ, etc? Probably not. That's why he's asking this kind of "stupid" question. He will be getting an answer that he could've found if only he at least attempted to find the answer through various means before asking that question on StackOverflow. What about subject headers? Does the subject header of "How to print to console using Javascript?" entice you to help this person? Easily one of the most easiest questions to answer if only he had done his own research. 
 
-Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+Now, let's look at another question. How can it be that a dataframe that takes up so little space after it has been cached can cause memory problems?" and "Is there something obvious for me to check/change/troubleshoot to help fix the problem, before I move on to additional options that may compromise performance?" Comparing these two questions to the first one, can you see the difference? You can tell that he had at least attempted to try and find an answer on his own before asking for help. The subject header being "Out Of Memory Error When Collecting Data Out of a Spark Cluster" it is more enticing and concise that it will most likely that the person will receive help. As shown in the link, he also demonstrated describing the research he did to understand the problem, the diagnostic steps he took to try and pin down the problem himself, and any possible relevant recent changes in his computer or software configuration.
 
-Try to find an answer by searching the Web.
+Smart questions are important for smart software engineers because we will need to be able to not only ask concise good questions but also be able to try and figure things out to the best of our abilities before actually asking a question. It will mainly be problem solving through various means before asking a question either online or to someone who can help. Attempting to try and solve the problem opens up your question to have more depth and be much more descriptive of what exactly you need help on. Hence, it is very important for us to ask smart questions after smart attempts since there will always be problems and obstacles as a software engineer that you will have to face. The insight that I gained as a result of this experience is that this is applicable to not only Computer Science but life in general. Asking precise or "smart" questions about any subject will not only lead you to better understand the problem but also leads the person who is willing to help have a very clear understanding of what kind of answer you would like. "Smart" questions lead to "smart: answers but, "stupid" questions leads to "answers".
 
-Try to find an answer by reading the manual.
+Reference links at: <a href="https://stackoverflow.com/questions/45873155/out-of-memory-error-when-collecting-data-out-of-spark-cluster"><i class="large github icon"></i>Smart question</a> & <a href="https://stackoverflow.com/questions/34733505/how-to-print-to-console-using-javascript"><i class="large github icon"></i>Stupid question</a>. <a href="https://stackoverflow.com/questions/34733505/how-to-print-to-console-using-javascript"><i class="large github icon"></i>How to ask questions the smart way.</a>
 
-Try to find an answer by reading a FAQ.
-
-Try to find an answer by inspection or experimentation.
-
-Try to find an answer by asking a skilled friend.
-
-If you're a programmer, try to find an answer by reading the source code.
-
-
-Use meaningful, specific subject headers
-
-On mailing lists, newsgroups or Web forums, the subject header is your golden opportunity to attract qualified experts' attention in around 50 characters or fewer. Don't waste it on babble like “Please help me” (let alone “PLEASE HELP ME!!!!”; messages with subjects like that get discarded by reflex). Don't try to impress us with the depth of your anguish; use the space for a super-concise problem description instead.
-
-One good convention for subject headers, used by many tech support organizations, is “object - deviation”. The “object” part specifies what thing or group of things is having a problem, and the “deviation” part describes the deviation from expected behavior.
-
-Be precise and informative about your problem:
-
-Describe the symptoms of your problem or bug carefully and clearly.
-
-Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: “Fedora Core 7”, “Slackware 9.1”, etc.).
-
-Describe the research you did to try and understand the problem before you asked the question.
-
-Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
-
-Describe any possibly relevant recent changes in your computer or software configuration.
-
-If at all possible, provide a way to reproduce the problem in a controlled environment.
