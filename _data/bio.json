@@ -80,16 +80,7 @@
       "endDate": "Present",
       "gpa": "3.74",
       "courses": [
-        "Intro to Computer Science I      [ICS 111]",
-        "Intro to Computer Science II     [ICS 211]",
-        "Discrete Math for CS I           [ICS 141]",
-        "Discrete Mathematics II          [ICS 241]",
-        "Program Structure                [ICS 212]",
-        "Algorithms                       [ICS 311]",
-        "Software Engineering             [ICS 314]",
-        "Data Storage & Retrieval         [ICS 321]",
-        "Security and Trust I             [ICS 355]",
-        "Data Security & Cryptography I   [ICS 423]"
+        "",
       ]
     }
   ],
