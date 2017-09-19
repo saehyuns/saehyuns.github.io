@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: JavaScript or EasyScript?
-date: 2017-08-31
+title: Perspective of Coding Standards
+date: 2017-09-19
 labels:
   - Software Engineering
   - Computer Science
