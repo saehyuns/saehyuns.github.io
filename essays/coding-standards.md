@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Perspective of Coding Standards
+title: Perspective on Coding Standards
 date: 2017-09-19
 labels:
   - Software Engineering
