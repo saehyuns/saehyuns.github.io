@@ -6,24 +6,7 @@ date: 2017-08-31
 labels:
   - Software Engineering
   - Computer Science
-  - Javascript
+  - Coding Standards
 ---
 
-When one hears JavaScript, one might think, "Oh! I know Java, it should basically be the same thing, right?". Well, that "one"
-was me. Coming into this class, not knowing any JavaScript, I was expecting it to be very similar in terms of syntax with Java.
-However, that was not the case. After watching Professor Johnson's video about the differences between JavaScript and C++/Java,
-it gave me a whole new perspective of what I was going to learning. One notable thing is that you can mix different
-types in the same array, IN THE SAME ARRAY. I never thought that would be possible, especially since Java/C/C++ were my starting
-languages. Having different types in the same array, opens up new possibilities that wouldn't be possible with the restrictions.
-
-From a software engineering perspective, JavaScript is a good programming language. The usability and readability makes more sense
-than that of the traditional C, C++, and Java programming languages. I feel like it would be easier for beginners to learn 
-JavaScript than they would for the traditional languages. All programming languages have their pros and cons, it would come down to
-what you want to achieve and the preference for the language that you like.
-
-Being introduced to WODS for the first time in my life, I feel as though they are very helpful in terms of not only preparing us for 
-the professional/technical interviews but also keeps us on our toes of JavaScript or the current material that we are learning.
-It is like when you workout, at first when your muscles are not used to working out, they will be in pain and in
-"shock", however as you become more consistent in working out, your muscles will no longer be as shocked as they were when you first
-worked out. Athletic software engineering behaves the exact same way but mentally. It is very much enjoyable and I believe that it
-will work for not only me but everyone else as well.
+After my first week of using ESLint with IntelliJ, I feel as though it is useful in some cases but not in all cases. Yes, it is good if you want consistency in your code in terms of legibility, precision, and organization. However, in terms of being able to express your own style of code, where no one else but you are going to be looking at it, it might not be as good. There will always be the same pattern to a coding standard, whilst if you have your own unique standard, it might be a bit harder for someone else with either malicious intent or someone with the idea of taking your code, it will make it much difficult for them to interpret. I personally think that it depends on what you use it for. Of course, if you are working a large group, consistency through coding standards is good since it puts everyone on the same page and everyone will be able to interpret what the code shows. Everyone will be coding using the same pattern or coding standard. I believe that the green checkmark itself is useful, it tells you that something is wrong format or even missing something. Without something like that green checkmark that would indicate something, you might not catch something that was important. It might be weird to think of it like this, but it sort of just takes away the unique way everyone expresses themselves through code. Through their own coding standards and their own ways of coding. Having the same coding standard would make everyone's style look almost exactly the same, all consolidated into one type of standard, that has to be boring right? Of course, that would depend on the person looking at the code as well. Overall, I feel that having coding standards has its own pros and cons just like everything else in this world, everyone will always have their own perspective of everything. 
