@@ -52,8 +52,10 @@
         "C",
         "C++",
         "Java",
+        "Swift",
+        "HTML/CSS",
         "Javascript",
-        "Swift"
+        "Semantic UI"
       ]
     },
     {
@@ -67,7 +69,9 @@
         "Vi/Vim",
         "Xcode",
         "Eclipse",
-        "iTerm"
+        "iTerm",
+        "IntelliJ Idea",
+        "JSFiddle"
       ]
     }
   ],
