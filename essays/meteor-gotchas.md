@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "One Meteoric Problems!"
+title: "One Meteoric Problem!"
 date: 2017-10-19
 labels:
   - Software Engineering
