@@ -18,7 +18,10 @@ it is best to:
 
 1. Quit meteor.
 2. Invoke meteor reset to clear out the contents of the database.
-3. Re-invoke meteor. For applications based upon meteor-application-template, you can use meteor npm run start, which runs a    script found in package.json that resolves to meteor --no-release-check --settings ../config/settings.development.json."
+3. Re-invoke meteor. For applications based upon meteor-application-templ
+ate, you can use meteor npm run start, which runs a    script found in pa
+ckage.json that resolves to meteor --no-release-check --settings ../confi
+g/settings.development.json."
 ```
 
 I then immediately went to the terminal and typed:
