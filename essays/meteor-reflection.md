@@ -8,7 +8,7 @@ labels:
   - Computer Science
   - Meteor
 ---
-What I found difficult was trying to transition from just creating little programs that would display how data structures works
+Did you feel these past few weeks like you were hit on the head with “a small body of matter from outer space that enters the earth’s atmosphere, becoming incandescent as a result of friction and appearing as a streak of light”? Well, I did. Given that there is an initial learning curve for Meteor, what I found difficult was trying to transition from just creating little programs that would display how data structures works
 to creating an application that would be used in the real world today. As explained in class, it is something that has
 a much larger market than that of creating a program that demonstrates a linked list. Transitioning from that background
 to real-life application development and being introduced to a different way of coding has really caught my attention. 
