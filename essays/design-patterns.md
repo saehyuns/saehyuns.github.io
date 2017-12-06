@@ -8,22 +8,6 @@ labels:
   - Computer Science
   - Design Patterns
 ---
-
-A common interview question is “What are design patterns?”, followed by “What design patterns have you used in your own code?”
-
-For this technical essay, you will write an interesting and informative technical essay that ends up answering these two 
-questions. By doing so, you’ll be better prepared to answer this question if it comes up in an interview.
-
-Do not, under any circumstances, write two paragraphs, one with the title “What are design patterns?” and one with the title 
-“How I have used them in my code.” That will get you no points, as such an essay would be too boring for anyone to read.
-
-Instead, write an essay, perhaps using metaphor or analogy, which by its conclusion has answered these two questions but in a 
-clever, interesting, and informative fashion.
-
-In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. 
-A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how 
-to solve a problem that can be used in many different situations.
-
 Design patterns are defined as a general repeatable solution to a commonly occurring problem. More specifically, I will be going
 over design patterns in software engineering. You can think of design patterns like a new house. If a commonly 
 occurring problem is that a home is much needed and are looking for one. The new house can serve as a template, where it isn't 
