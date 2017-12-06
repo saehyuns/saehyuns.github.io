@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns and Houses?!
+title: Design Patterns and Homes?
 date: 2017-12-05
 labels:
   - Software Engineering
