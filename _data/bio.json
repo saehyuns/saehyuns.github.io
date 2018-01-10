@@ -59,40 +59,42 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MacOS",
-        "WindowsOS",
-        "Unix/Linux",
-        "Git/GitHub",
-        "Vi/Vim",
-        "Xcode",
         "Eclipse",
-        "iTerm",
+        "Xcode",
+        "Vi/Vim",
         "IntelliJ Idea",
-        "JSFiddle"
+        "JSFiddle",
+        "Git/GitHub",
+        "Meteor",
+        "iTerm",
+        "Unix/Linux"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
       "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "3.74"
+      "gpa": "3.77"
     }
   ],
   "work": [
     {
-      "company": "Office of Multicultural Student Services – Hawaii Undergraduate Initiative (HUI)",
-      "position": "Program Team Member",
-      "website": "http://manoa.hawaii.edu/omsshui/",
-      "startDate": "2017-01",
+      "company": "Department of Civil and Environmental Engineering – University of Hawai`i at Mānoa",
+      "position": "Web Developer",
+      "website": "http://www.cee.hawaii.edu/",
+      "startDate": "2018-01",
       "endDate": "Present",
-      "summary": "Provided training to future peer mentors to be able to help and work with freshmen raised in an underrepresented community at the University of Hawaii at Mānoa."
+      "summary": "Developing a dynamic website with an SQL server database for safety data analysis and safety data management.",
+      "highlights": [
+        "Utilizing MySQL with phpMyAdmin, PHP, HTML / CSS, JavaScript, and Leaflet map API.",
+      ]
     },
     {
       "company": "Office of Student Life and Development - Student Recreation Services",
@@ -110,14 +112,6 @@
         "Problem solving and being able to make executive decisions based off of the circumstances given",
         "Maintaining, updating, and overseeing the student recreation services website and its social media",
       ]
-    },
-    {
-      "company": "Hawaii Department of Education - Kaimuki High School",
-      "position": "AVID Tutor",
-      "website": "http://www.khsavid.com/",
-      "startDate": "2015-06",
-      "endDate": "2016-08",
-      "summary": "Aided students in their STEM coursework as well as the process of applying for colleges and scholarship opportunities, preparing them for their future in college.",
     }
   ],
   "volunteer": [
