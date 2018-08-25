@@ -30,18 +30,15 @@
   "interests": [
     {
       "name": "Web Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Mobile App Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Video Game Design",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -93,7 +90,7 @@
       "endDate": "Present",
       "summary": "Developing a dynamic website with an SQL server database for safety data analysis and safety data management.",
       "highlights": [
-        "Utilizing MySQL with phpMyAdmin, PHP, HTML / CSS, JavaScript, and Leaflet map API.",
+        "Utilizing MySQL with phpMyAdmin, PHP, HTML / CSS, JavaScript, and Leaflet map API."
       ]
     },
     {
@@ -106,11 +103,19 @@
       "highlights": [
         "Management of the hiring and firing process",
         "Conducting performance evaluations of employees",
-        "Accountable for overseeing front desk operations",
-        "Handling administrative tasks and monetary deposits",
-        "Scheduling employees based off of their availability and providing training for employees",
-        "Problem solving and being able to make executive decisions based off of the circumstances given",
-        "Maintaining, updating, and overseeing the student recreation services website and its social media",
+        "Accountable for overseeing front desk operations"
+      ]
+    },
+    {
+      "company": "Integrity Applications Incorporated",
+      "position": "Akamai Software Engineering Intern",
+      "website": "integrity-apps.com",
+      "startDate": "2018-06",
+      "endDate": "2018-08",
+      "summary": "Characterization of Shadow Prediction Tool",
+      "highlights": [
+        "Developed code in Matlab to automate the process of mining and parsing decades' worth of previous data, images, and telemetry that was used to analyze the accuracy of the current shadow prediction tool to determine when and where to place sensors / apertures to capture a shadow of a geosynchronous satellite cast unto the Earth's surface.",
+        "Collaborated with optical scientists, astrophycists, and people with various specialization to validate the analysis created to determine the accuracy of the shadow prediction tool."
       ]
     }
   ],
@@ -121,7 +126,7 @@
       "position": "Helper",
       "startDate": "2014-08",
       "endDate": "2015-05",
-      "summary": "Helped with painting and maintaing a mural in the hall way as part of the AVID Program",
+      "summary": "Helped with painting and maintaing a mural in the hall way as part of the AVID Program"
     },
     {
       "organization": "Hawaii Department of Education - Kaimuki High School",
@@ -129,8 +134,8 @@
       "position": "Helper",
       "startDate": "2014-08",
       "endDate": "2015-05",
-      "summary": "Planting, campus beautifying, and cleaning as part of the Kaimuki Go Green Project",
-    },
+      "summary": "Planting, campus beautifying, and cleaning as part of the Kaimuki Go Green Project"
+    }
   ],
   "awards": [
     {
@@ -155,7 +160,7 @@
       "title": "Soft Tennis MVP Award",
       "date": "2012",
       "awarder": "Kaimuki High School",
-      "summary": "Most valuable player for soft tennis",
+      "summary": "Most valuable player for soft tennis"
     }
   ],
   "references": [
