@@ -34,7 +34,7 @@ In order to change the background of the splash page to light grey, all I had to
 I was able to learn that you can directly use HTML / CSS elements in Electron just like a web application.
 
 ### Problems:
-No problems were encountered.
+No problems were encountered..
 
 ### Result:
 <kbd> <img class="ui image" src="../images/TechFolioOnboard1.png"> </kbd>
