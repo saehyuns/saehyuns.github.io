@@ -1,22 +1,22 @@
 ---
-    layout: essay
+layout: essay
 type: essay
 title: "Simply Onboarding"
 date: 2018-08-27
 labels:
-    - Desktop App Development
+- Desktop App Development
 - Electron JS
 - HTML / CSS / JS
 ---
 
-    # 1. Change background color of Splash Page
+# 1. Change background color of Splash Page
 
 ## Requirements:
 Change the background color of the splash page to light grey.
 
-    ### Files changed:
+### Files changed:
 
-    ```
+```
 
 In ../splash/SplashPage.html
 
@@ -30,13 +30,13 @@ After:
 
 In order to change the background of the splash page to light grey, all I had to do was set the background-color style in the SplashPage.html file to lightgrey. A really simple CSS change.
 
-    ### System:
+### System:
 I was able to learn that you can directly use HTML / CSS elements in Electron just like a web application.
 
-    ### Problems:
+### Problems:
 No problems were encountered.
 
-    ### Result:
+### Result:
 <kbd> <img class="ui image" src="../images/TechFolioOnboard1.png"> </kbd>
 
 # 2. Add "last modified" Timestamp to Splash Page
