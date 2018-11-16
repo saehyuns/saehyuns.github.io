@@ -4,15 +4,15 @@
     "label": "Student",
     "picture": "https://saehyuns.github.io/images/Sae_Prof_Pic.jpeg",
     "email": "saehyuns@hawaii.edu",
-    "phone": "808-389-3588",
     "website": "https://saehyuns.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018. Eventually, I would like to become a Full Stack Developer or a Software Engineer.",
+    "phone": "808-389-3588",
     "location": {
       "address": "2911 Booth Road",
       "postalCode": "96813",
       "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawaii",
+      "countryCode": "USA"
     },
     "profiles": [
       {
